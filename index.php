@@ -76,8 +76,24 @@
 	<dl>
 	<dt>Financial contributions</dt>
   	<dd>If you are over the age of 18, you can help the server by contributing through PayPal or with Bitcoin.</dd>
-	
+	<p><a class="coinbase-button" data-code="e5fb4109779fd609f2688929eab7fd24" data-button-style="donation_small" href="https://coinbase.com/checkouts/e5fb4109779fd609f2688929eab7fd24">Donate Bitcoins</a><script src="https://coinbase.com/assets/button.js" type="text/javascript"></script></p>
+	<p><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_donations">
+<input type="hidden" name="business" value="HJHQZDZTVSDHA">
+<input type="hidden" name="lc" value="US">
+<input type="hidden" name="item_name" value="m.neffy.me">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="bn" value="PP-DonationsBF:btn_donate_SM.gif:NonHosted">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></p>
+
 	<dt>Code contributions</dt>
-	<dd>The tools powering the server are open source and publicly available on GitHub. If you are so inclined, feel free to correct any errors you find and issue pull requests.</dd>
+	<dd>The tools powering the server are open source and publicly available on GitHub. If you are so inclined, feel free to correct any errors you find and issue pull requests.
+	<p><iframe src="http://ghbtns.com/github-btn.html?user=prophile&repo=glory&type=fork&count=true&size=large"
+  allowtransparency="true" frameborder="0" scrolling="0" width="95" height="30"></iframe></p>
+
+		
+	</dd>
 </dl>
 <?php require_once('footer.php'); ?>
