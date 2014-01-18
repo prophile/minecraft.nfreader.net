@@ -25,7 +25,7 @@
   	
   	<h1>Status</h1>
   		<ul>
-  			<li class="status">Checking...</li
+  			<li class="status">Checking...</li>
   		</ul>
   		
   
