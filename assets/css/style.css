@@ -408,97 +408,97 @@ table {
 * {box-sizing: border-box;}
 
 body {
-	padding: 0;
-	margin: 0;
-	font-family: Helvetica, Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 dt {
-	font-weight: bold;
+    font-weight: bold;
 }
 
 dd {
-	margin: 0 0 10px 0;
-	padding: 0;
+    margin: 0 0 10px 0;
+    padding: 0;
 }
 
 .num {
-	float: left;
-	clear: right;
-	margin: 0 5px 0 0;
-	font-size: 200%;
+    float: left;
+    clear: right;
+    margin: 0 5px 0 0;
+    font-size: 200%;
 }
 
 aside {
-	width: 250px;
-	position: absolute;
-	top: 0px;
-	left: 0px;
-	bottom: 0px;
-	background: #2c3e50;
-	padding: 20px;
-	color: #ecf0f1
+    width: 250px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    background: #2c3e50;
+    padding: 20px;
+    color: #ecf0f1
 }
 
 aside ul {
-	margin: 0;
-	padding: 20px 0;
-	list-style-type: none;
-	border-top: 3px solid #ecf0f1;
-	border-bottom: 3px solid #ecf0f1;
+    margin: 0;
+    padding: 20px 0;
+    list-style-type: none;
+    border-top: 3px solid #ecf0f1;
+    border-bottom: 3px solid #ecf0f1;
 }
 
 aside a {
-	color: #95a5a6;
-	text-decoration: none;
-	padding: 5px 10px;
-	margin: 10px 0 10px -10px;
-	display: block;
+    color: #95a5a6;
+    text-decoration: none;
+    padding: 5px 10px;
+    margin: 10px 0 10px -10px;
+    display: block;
 }
 
 h1 a {
-	margin: 0 !important;
-	padding: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 aside a:hover {
-	color: #34495e;
-	background: #95a5a6;
+    color: #34495e;
+    background: #95a5a6;
 }
 
 section {
-	position: absolute;
-	top: 0px;
-	left: 250px;
-	right: 0px;
-	bottom: 0px;
-	background: #ecf0f1;
-	padding: 20px;
-	overflow-x: scroll;
+    position: absolute;
+    top: 0px;
+    left: 250px;
+    right: 0px;
+    bottom: 0px;
+    background: #ecf0f1;
+    padding: 20px;
+    overflow-x: scroll;
 }
 
 .page-header {
-	border-bottom: 3px solid #7f8c8d;
+    border-bottom: 3px solid #7f8c8d;
 }
 
 .page-header h1 {
-	color: #7f8c8d;
+    color: #7f8c8d;
 }
 .page-header h1 addr, .section-header h1 {
-	color: #2c3e50;
+    color: #2c3e50;
 }
 
 .status {
-	text-align: center;
-	padding: 10px;
+    text-align: center;
+    padding: 10px;
 }
 
 .online {
-	background: #2ecc71;
+    background: #2ecc71;
 }
 
 .offline {
-	background: #c0392b;
+    background: #c0392b;
 }
 
 

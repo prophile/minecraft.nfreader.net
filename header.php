@@ -1,4 +1,3 @@
-<?php require_once('inc/config.php'); ?>
 <!DOCTYPE html>
 <html>
   <head>
@@ -8,32 +7,32 @@
     <script src="//code.jquery.com/jquery.js"></script>
   </head>
   <body>
-  
+
   <aside>
-  
-  	<h1><a href='index.php'><addr>m.neffy.me</addr></a></h1>
-  	
-  	<ul>
-  		<li><a href="index.php#rules">Rules</a></li>
-  		<li><a href="index.php#moderators">Moderation Team</a></li>
-  		<li><a href="index.php#admins">Administration Team</a></li>
-  		<li><a href="index.php#help">Get Help</a></li>
-  		<li><a href="index.php#tech">Technology</a></li>
-  		<li><a href="index.php#donate">Donate</a></li>
-  		<li><a href="chat.php">Support Chat</a></li>
-  	</ul>
-  	
-  	<h1>Status</h1>
-  		<ul>
-  			<li class="status">Checking...</li
-  		</ul>
-  		
-  
-  </aside>
-  
-  <section>
-  
-  	<div class="page-header">
-  		<h1>A very nice Minecraft server for you and your friends</h1>
-  	</div>
-  	
+
+    <h1><a href='index.php'><addr>m.neffy.me</addr></a></h1>
+
+    <ul>
+        <li><a href="index.php#rules">Rules</a></li>
+        <li><a href="index.php#moderators">Moderation Team</a></li>
+        <li><a href="index.php#admins">Administration Team</a></li>
+        <li><a href="index.php#help">Get Help</a></li>
+        <li><a href="index.php#tech">Technology</a></li>
+        <li><a href="index.php#donate">Donate</a></li>
+        <li><a href="chat.php">Support Chat</a></li>
+    </ul>
+
+    <h1>Status</h1>
+        <ul>
+            <li class="status">Checking...</li>
+        </ul>
+
+
+</aside>
+
+<section>
+
+    <div class="page-header">
+        <h1>A very nice Minecraft server for you and your friends</h1>
+    </div>
+
