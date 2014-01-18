@@ -1,4 +1,3 @@
-<?php require_once('header.php'); ?>
       <div class="section-header" id="rules">
           <h1>The Rules</h1>
           <p>The Law of the Land is intended to be as fair as possible. However, players that fail to adhere to these guidelines will be banned from playing on this server.</p>
@@ -46,17 +45,17 @@
           <p>The best way to get help with an issue may depend on what the issue is.</p>
           <dl>
     <dt>For active, ongoing griefing</dt>
-    <dd>Please contact a member of the moderation team in-game, or if none are available, contact us via <a href="chat.php">HipChat</a></dd>
+    <dd>Please contact a member of the moderation team in-game, or if none are available, contact us via <a href="chat.html">HipChat</a></dd>
 
     <dt>For recently discovered griefing</dt>
     <dd>Ask an in-game moderator to rollback the changes.</dd>
 
     <dt>For technical issues</dt>
-    <dd>If the server is down or you are otherwise unable to connect, please contact us via <a href="chat.php">HipChat</a>, or email <a href="mailto:minecraft@nfreader.net">minecraft@nfreader.net</a>
+    <dd>If the server is down or you are otherwise unable to connect, please contact us via <a href="chat.html">HipChat</a>, or email <a href="mailto:minecraft@nfreader.net">minecraft@nfreader.net</a>
     </dd>
 
     <dt>For all other issues</dt>
-    <dd>If the issue is in-game, contact an active moderator in game. Otherwise, contact us via <a href="chat.php">HipChat</a></dd>
+    <dd>If the issue is in-game, contact an active moderator in game. Otherwise, contact us via <a href="chat.html">HipChat</a></dd>
     </dl>
 
     <div class="section-header" id="tech">
@@ -96,4 +95,3 @@
 
     </dd>
 </dl>
-<?php require_once('footer.php'); ?>
