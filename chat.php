@@ -1,12 +1,6 @@
 <?php
 require_once('header.php');
-require_once('inc/HipChat.php');
 ?>
-	
-<?php 
-$token = HC_TOKEN;
-$hc = new HipChat\HipChat($token);
-?>	
 
     <h1>Support Chat</h1>
     <p>Click the button below to be connected to the support room. Your issue will be addressed as soon as possible. You may be asked to verify your identity in-game.</p>
