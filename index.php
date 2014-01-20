@@ -88,10 +88,16 @@
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form></p>
 
+  
+    <dt>Referral Contributions</dt>
+    <dd>The server host, Digital Ocean offers referral bonuses for new clients that sign up using a specific referral code. If you're in need of a good, cheap VPS, we highly recommend Digital Ocean. Our referral code is <a href="https://www.digitalocean.com/?refcode=e8fee75698ff" target="_blank">https://www.digitalocean.com/?refcode=e8fee75698ff</a>
+
     <dt>Code contributions</dt>
     <dd>The tools powering the server are open source and publicly available on GitHub. If you are so inclined, feel free to correct any errors you find and issue pull requests.
     <p><iframe src="http://ghbtns.com/github-btn.html?user=prophile&repo=glory&type=fork&count=true&size=large"
   allowtransparency="true" frameborder="0" scrolling="0" width="95" height="30"></iframe></p>
+
+
 
 
     </dd>
