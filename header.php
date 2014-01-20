@@ -4,7 +4,8 @@
     <title>Hypnotoad</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="assets/css/style.css" rel="stylesheet" media="screen">
-    <script src="//code.jquery.com/jquery.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('Javascript must be enabled!')</script>
   </head>
   <body>
 
