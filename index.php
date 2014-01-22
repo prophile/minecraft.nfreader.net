@@ -76,7 +76,7 @@
     <dl>
     <dt>Financial contributions</dt>
       <dd>If you are over the age of 18, you can help the server by contributing through PayPal or with Bitcoin.</dd>
-    <p><a class="coinbase-button" data-code="e5fb4109779fd609f2688929eab7fd24" data-button-style="donation_small" href="https://coinbase.com/checkouts/e5fb4109779fd609f2688929eab7fd24">Donate Bitcoins</a><script src="https://coinbase.com/assets/button.js" type="text/javascript"></script></p>
+    <p>Our Bitcoin address is <code>12bziKajZ4YDHgkhzVwJqzVC2tP4Nu6Uyf</code></p>
     <p><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_donations">
 <input type="hidden" name="business" value="HJHQZDZTVSDHA">

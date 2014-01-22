@@ -4,6 +4,7 @@ body {
     padding: 0;
     margin: 0;
     font-family: Helvetica, Arial, sans-serif;
+    height: 100%;
 }
 
 dt {
@@ -68,6 +69,7 @@ section {
     background: #ecf0f1;
     padding: 20px;
     overflow-x: scroll;
+    min-height: 100%;
 }
 
 .page-header {
@@ -94,4 +96,10 @@ section {
     background: #c0392b;
 }
 
+code {
+	border: 1px solid #575757;
+	background: #E9E9E9;
+	border-radius: 2px;
+	padding: 5px;
+}
 

@@ -19,8 +19,9 @@
         <li><a href="index.php#admins">Administration Team</a></li>
         <li><a href="index.php#help">Get Help</a></li>
         <li><a href="index.php#tech">Technology</a></li>
-        <li><a href="index.php#donate">Donate</a></li>
+        <li><a href="index.php#contribute">Contribute</a></li>
         <li><a href="chat.php">Support Chat</a></li>
+        <li><a href="map.php">Server Map</a></li>
     </ul>
 
     <h1>Status</h1>
