@@ -103,3 +103,23 @@ code {
 	padding: 5px;
 }
 
+.map {
+	position: absolute;
+	right:0px;
+	bottom: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+@media screen and (max-width: 1024px) {
+	aside, section {
+		position: relative;
+		width: 100%;
+		left: 0px;
+	}
+	.map {
+		height: 480px !important;
+		position: relative;
+	}
+
+}
