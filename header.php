@@ -14,6 +14,7 @@
     <h1><a href='index.php'><addr>m.neffy.me</addr></a></h1>
 
     <ul>
+    	<li><a href="index.php#connect">Connecting</a></li>
         <li><a href="index.php#rules">Rules</a></li>
         <li><a href="index.php#moderators">Moderation Team</a></li>
         <li><a href="index.php#admins">Administration Team</a></li>

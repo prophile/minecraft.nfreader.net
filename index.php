@@ -1,4 +1,10 @@
 <?php require_once('header.php'); ?>
+     
+      <div class="section-header" id="connect">
+          <h1>Connecting</h1>
+          <p>Simply connect to <code>m.neffy.me</code> in your Minecraft client.</p>
+    </div>
+
       <div class="section-header" id="rules">
           <h1>The Rules</h1>
           <p>The Law of the Land is intended to be as fair as possible. However, players that fail to adhere to these guidelines will be banned from playing on this server.</p>
