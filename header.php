@@ -16,6 +16,7 @@
     <ul>
     	<li><a href="index.php#connect">Connecting</a></li>
         <li><a href="index.php#rules">Rules</a></li>
+        <li><a href="index.php#directive">The Prime Directive</a></li>
         <li><a href="index.php#moderators">Moderation Team</a></li>
         <li><a href="index.php#admins">Administration Team</a></li>
         <li><a href="index.php#help">Get Help</a></li>
