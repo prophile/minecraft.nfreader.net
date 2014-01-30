@@ -30,7 +30,7 @@
           <h1>The Prime Directive</h1>
   </div>
   
-  <p>Above all else, the staff will do its best to not violate the <a href="http://en.wikipedia.org/wiki/Prime_Directive">Prime Directive</a>. The server and its community must be allowed to evolve as naturally as possible, other than where intervention is necessary.</p>
+  <p>Above all else, the staff will undertake not to violate the <a href="http://en.wikipedia.org/wiki/Prime_Directive">Prime Directive</a>. The server and its community must be allowed to evolve as naturally as possible, other than where intervention is necessary.</p>
 
     <div class="section-header" id="moderators">
           <h1>Moderation Team</h1>
