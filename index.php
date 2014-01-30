@@ -30,7 +30,7 @@
           <h1>The Prime Directive</h1>
   </div>
   
-  <p>Above all else, the staff will do their best to not violate the <a href="http://en.wikipedia.org/wiki/Prime_Directive">Prime Directive</a>. The server and its community will be allowed to evolve as naturally as possible. That means no extraneous plugins (aside from those used for moderation or convenience) or contributor perks. Exceptions have been granted in order to maintain a "safe" spawnpoint and to establish an administrative office.</p>
+  <p>Above all else, the staff will do its best to not violate the <a href="http://en.wikipedia.org/wiki/Prime_Directive">Prime Directive</a>. The server and its community will be allowed to evolve as naturally as possible. That means no extraneous plugins (aside from those used for moderation or convenience). Exceptions have been granted in order to maintain a "safe" spawnpoint and to establish an administrative office.</p>
 
     <div class="section-header" id="moderators">
           <h1>Moderation Team</h1>
